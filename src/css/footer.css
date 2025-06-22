@@ -19,3 +19,20 @@
   background-color: #41d1ff;
   transition: 200ms ease;
 }
+
+/* fghjk */
+.mob-menu-btn {
+  border: none;
+  background: transparent;
+  margin-left: auto;
+  padding: 0;
+}
+.class-studio {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+/* fghjk */
